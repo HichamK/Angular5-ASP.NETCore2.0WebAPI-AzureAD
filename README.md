@@ -1,2 +1,4 @@
 # Angular5-ASP.NETCore2.0WebAPI-AzureAD
-An Angular 5 application with ASP.NET Core 2.0 Web API for Azure AD that shows how to protect a web api and accept access tokens
+# This sample contains a web API running on ASP.NET Core 2.0 protected by Azure AD using the ASP.Net Core JWT Bearer middleware.
+# The app is a simple web API that exposes standard CRUD operations via /api/{controller} through standard GET, PUT, POST and DELETE.
+# The web API is accessed by an Angular 5 application on behalf of the signed-in user. 
